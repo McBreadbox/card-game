@@ -1,3 +1,11 @@
 Mirror Knight
 8
 Swing sword
+
+Slimer
+6
+Slime attack
+
+Fire Demon
+10
+Flare strike
